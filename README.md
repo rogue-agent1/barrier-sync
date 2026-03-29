@@ -1,11 +1,11 @@
-# barrier_sync
+# barrier-sync
 
-barrier_sync - Cyclic barrier for synchronizing N threads at a point.
+Barrier and cyclic barrier synchronization
+
+Zero-dependency, single-file Python 3.8+ CLI tool.
 
 ## Usage
 
 ```bash
-python3 barrier_sync.py --test
+python barrier_sync.py
 ```
-
-Zero dependencies. Python 3.8+.
